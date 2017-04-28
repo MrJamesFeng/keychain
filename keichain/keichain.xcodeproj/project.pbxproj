@@ -13,6 +13,11 @@
 		0B4629DA1EB2D6FC0033B168 /* KeychainItemWrapper.m in Sources */ = {isa = PBXBuildFile; fileRef = 0B4629D91EB2D6FC0033B168 /* KeychainItemWrapper.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		0B4629DB1EB2D6FC0033B168 /* KeychainItemWrapper.m in Sources */ = {isa = PBXBuildFile; fileRef = 0B4629D91EB2D6FC0033B168 /* KeychainItemWrapper.m */; };
 		0B4629DC1EB2D6FC0033B168 /* KeychainItemWrapper.m in Sources */ = {isa = PBXBuildFile; fileRef = 0B4629D91EB2D6FC0033B168 /* KeychainItemWrapper.m */; };
+		0B4629E21EB2E7FB0033B168 /* iOS 开发keychain 使用与多个APP之间共享keychain数据的使用 - 简书.webarchive in Resources */ = {isa = PBXBuildFile; fileRef = 0B4629DD1EB2E7FB0033B168 /* iOS 开发keychain 使用与多个APP之间共享keychain数据的使用 - 简书.webarchive */; };
+		0B4629E31EB2E7FB0033B168 /* iOS keyChain 的使用 - 简书.webarchive in Resources */ = {isa = PBXBuildFile; fileRef = 0B4629DE1EB2E7FB0033B168 /* iOS keyChain 的使用 - 简书.webarchive */; };
+		0B4629E41EB2E7FB0033B168 /* iOS Keychain理解 - 简书.webarchive in Resources */ = {isa = PBXBuildFile; fileRef = 0B4629DF1EB2E7FB0033B168 /* iOS Keychain理解 - 简书.webarchive */; };
+		0B4629E51EB2E7FB0033B168 /* iOS Keychain总结 - 简书.webarchive in Resources */ = {isa = PBXBuildFile; fileRef = 0B4629E01EB2E7FB0033B168 /* iOS Keychain总结 - 简书.webarchive */; };
+		0B4629E61EB2E7FB0033B168 /* Touch ID使用 - 简书.webarchive in Resources */ = {isa = PBXBuildFile; fileRef = 0B4629E11EB2E7FB0033B168 /* Touch ID使用 - 简书.webarchive */; };
 		0B9730EF1EB09E9F0039613C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 0B9730EE1EB09E9F0039613C /* main.m */; };
 		0B9730F21EB09E9F0039613C /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 0B9730F11EB09E9F0039613C /* AppDelegate.m */; };
 		0B9730F51EB09E9F0039613C /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0B9730F41EB09E9F0039613C /* ViewController.m */; };
@@ -46,6 +51,11 @@
 		0B4629D31EB2D6190033B168 /* notes */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = notes; sourceTree = "<group>"; };
 		0B4629D81EB2D6FC0033B168 /* KeychainItemWrapper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KeychainItemWrapper.h; sourceTree = "<group>"; };
 		0B4629D91EB2D6FC0033B168 /* KeychainItemWrapper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KeychainItemWrapper.m; sourceTree = "<group>"; };
+		0B4629DD1EB2E7FB0033B168 /* iOS 开发keychain 使用与多个APP之间共享keychain数据的使用 - 简书.webarchive */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; path = "iOS 开发keychain 使用与多个APP之间共享keychain数据的使用 - 简书.webarchive"; sourceTree = "<group>"; };
+		0B4629DE1EB2E7FB0033B168 /* iOS keyChain 的使用 - 简书.webarchive */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; path = "iOS keyChain 的使用 - 简书.webarchive"; sourceTree = "<group>"; };
+		0B4629DF1EB2E7FB0033B168 /* iOS Keychain理解 - 简书.webarchive */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; path = "iOS Keychain理解 - 简书.webarchive"; sourceTree = "<group>"; };
+		0B4629E01EB2E7FB0033B168 /* iOS Keychain总结 - 简书.webarchive */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; path = "iOS Keychain总结 - 简书.webarchive"; sourceTree = "<group>"; };
+		0B4629E11EB2E7FB0033B168 /* Touch ID使用 - 简书.webarchive */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; path = "Touch ID使用 - 简书.webarchive"; sourceTree = "<group>"; };
 		0B9730EA1EB09E9F0039613C /* keichain.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = keichain.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0B9730EE1EB09E9F0039613C /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		0B9730F01EB09E9F0039613C /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -95,6 +105,11 @@
 		0B4629D11EB2D6050033B168 /* materials */ = {
 			isa = PBXGroup;
 			children = (
+				0B4629DD1EB2E7FB0033B168 /* iOS 开发keychain 使用与多个APP之间共享keychain数据的使用 - 简书.webarchive */,
+				0B4629DE1EB2E7FB0033B168 /* iOS keyChain 的使用 - 简书.webarchive */,
+				0B4629DF1EB2E7FB0033B168 /* iOS Keychain理解 - 简书.webarchive */,
+				0B4629E01EB2E7FB0033B168 /* iOS Keychain总结 - 简书.webarchive */,
+				0B4629E11EB2E7FB0033B168 /* Touch ID使用 - 简书.webarchive */,
 			);
 			path = materials;
 			sourceTree = "<group>";
@@ -300,7 +315,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0B4629E21EB2E7FB0033B168 /* iOS 开发keychain 使用与多个APP之间共享keychain数据的使用 - 简书.webarchive in Resources */,
+				0B4629E41EB2E7FB0033B168 /* iOS Keychain理解 - 简书.webarchive in Resources */,
 				0B9731001EB09E9F0039613C /* LaunchScreen.storyboard in Resources */,
+				0B4629E61EB2E7FB0033B168 /* Touch ID使用 - 简书.webarchive in Resources */,
+				0B4629E31EB2E7FB0033B168 /* iOS keyChain 的使用 - 简书.webarchive in Resources */,
+				0B4629E51EB2E7FB0033B168 /* iOS Keychain总结 - 简书.webarchive in Resources */,
 				0B9730FD1EB09E9F0039613C /* Assets.xcassets in Resources */,
 				0B4629D41EB2D6190033B168 /* notes in Resources */,
 				0B9730F81EB09E9F0039613C /* Main.storyboard in Resources */,
